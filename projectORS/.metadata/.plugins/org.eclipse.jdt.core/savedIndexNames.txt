@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Rays Software\Workspace\p10\proect10_FrontCtl-main\projectORS\.metadata\.plugins\org.eclipse.jdt.core
